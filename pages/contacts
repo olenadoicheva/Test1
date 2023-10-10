@@ -1,0 +1,88 @@
+<html>
+<head>
+<body style="background-color:D5EDD3;">
+<title>Contacts</title>
+<br />
+<font align="center" size="4" color="DarkGreen" face="Helvetica"><h1>My contacts</center></h1></font><br>
+<a href="../index.html">
+  <font align="center" size="3" color="#334E31" face="Helvetica"><p><b>MAIN</b></p></font>
+</a>
+<a href="gallery.html">
+  <font align="center" size="3" color="#334E31" face="Helvetica"><p><b>GALLERY</b></p></font>
+</a> 
+<a href="contacts.html">
+  <font align="center" size="3" color="#334E31" face="Helvetica"><p><b>CONTACTS</b></p></font>
+</a>
+<br />
+</head>
+
+<body>
+<font align="center" size="4" face="Helvetica"><p>I can be found on different social platforms, such as Twitter, Telegram, Instagram,<br> Chess.com, Gmail, Discord, Jira, Test Case Lab, Hillel IT School and also GitHub.</p></font>
+
+<table align="center">
+<tr>
+<td>
+<img src="../photos/photo10.png" height="50px" width="50px" />
+<a href="https://t.me/perrenell">
+  <font align="center" size="2" color="#334E31" face="Helvetica"><p><b>Telegram</b></p></font>
+</a>
+</td>
+<td>
+&nbsp;&nbsp;&nbsp;<img src="../photos/photo11.png" height="50px" width="50px" />&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/home">
+  <font align="center" size="2" color="#334E31" face="Helvetica"><p><b>Twitter</b></p></font>
+</a>
+</td>
+<td>
+&nbsp;<img src="../photos/photo12.png" height="47px" width="47px" />
+<a href="https://instagram.com/pufu.scy">
+  <font align="center" size="2" color="#334E31" face="Helvetica"><p><b>Instagram</b></p></font>
+</a>
+</td>
+<td>
+&nbsp;&nbsp;&nbsp;<img src="../photos/photo13.png" height="50px" width="50px" />&nbsp;&nbsp;&nbsp;
+<a href="https://www.chess.com/member/cerberrusss">
+  <font align="center" size="2" color="#334E31" face="Helvetica"><p><b>Chess.com</b></p></font>
+</a>
+</td>
+<td>
+&nbsp;&nbsp;&nbsp;<img src="../photos/photo14.png" height="50px" width="50px" />&nbsp;&nbsp;&nbsp;
+  <font align="center" size="2" color="#334E31" face="Helvetica"><p><b>cerberrusss</b></p></font>
+</td>
+</tr><br>
+<tr>
+<td>
+<img src="../photos/photo15.png" height="50px" width="50px" />
+<a href="https://jira.ithillel.com/secure/ViewProfile.jspa">
+  <font align="center" size="2" color="#334E31" face="Helvetica"><p><b>Jira</b></p></font>
+</a>
+</td>
+<td>
+&nbsp;&nbsp;&nbsp;<img src="../photos/photo16.png" height="50px" width="50px" />
+<a href="https://mail.google.com/mail/u/0/">
+  <font align="center" size="2" color="#334E31" face="Helvetica"><p><b>Gmail</b></p></font>
+</a>
+</td>
+<td>
+&nbsp;&nbsp;<img src="../photos/photo17.png" height="50px" width="50px" />
+<a href="https://testcaselab.com">
+  <font align="center" size="2" color="#334E31" face="Helvetica"><p><b>TCLab</b></p></font>
+</a>
+</td>
+<td>
+&nbsp;&nbsp;&nbsp;<img src="../photos/photo18.png" height="50px" width="50px" />
+<a href="https://lms.ithillel.ua">
+  <font align="center" size="2" color="#334E31" face="Helvetica"><p><b>Hillel</b></p></font>
+</a>
+</td>
+<td>
+&nbsp;&nbsp;<img src="../photos/photo19.png" height="50px" width="50px" />
+<a href="https://github.com/olenadoicheva">
+  <font align="center" size="2" color="#334E31" face="Helvetica"><p><b>GitHub</b></p></font>
+</a>
+</td>
+
+</tr>
+
+</body>
+</html>
